@@ -3,7 +3,7 @@ public class SumThread extends Thread {
     private int pos;
 
     public SumThread(int pos){
-        this.pos =pos;
+        this.pos = pos;
     }
 
     @Override
